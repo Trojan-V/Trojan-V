@@ -22,7 +22,7 @@
 <br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trojan-v&show_icons=true&theme=dark&locale=en" alt="trojan-v" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trojan-v&theme=dark" alt="trojan-v" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trojan-v&show_icons=true&theme=dark&locale=en" alt="trojan-v" />
+  &emsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trojan-v&theme=dark" alt="trojan-v" /></p>
 
